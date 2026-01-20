@@ -1,0 +1,21 @@
+{
+  "name": "تعلّم والعب",
+  "short_name": "تعلّم والعب",
+  "description": "ألعاب تعليمية ممتعة للأطفال لتعلم الحروف والأرقام والألوان والأشكال",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#87CEEB",
+  "theme_color": "#87CEEB",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "kids", "games"],
+  "lang": "ar",
+  "dir": "rtl"
+}
